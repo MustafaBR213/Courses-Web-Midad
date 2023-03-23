@@ -23,7 +23,8 @@ API authentication is implemented to provide secure access to the admin page.
 
 Email: admin@gmail.com
 Password: admin123
-
+<h3>Or Use The following command:</h3>
+<code>php artisan db:seed</code>
 
 <h2>Technologies Used</h2>
 Laravel Framework
