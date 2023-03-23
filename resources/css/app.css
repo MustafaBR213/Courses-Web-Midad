@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hero-bg-image{
+    background:  url('https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?w=1380&t=st=1678495485~exp=1678496085~hmac=dc066f5645834304bc18b8b95ad20d565e53b590da90223cbc9c6a573a631ce1') no-repeat center center /cover ;
+    background-attachment: fixed;
+    height: 600px;
+}
+.items-center{
+    align-items: center;
+}
